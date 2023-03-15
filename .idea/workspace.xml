@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c209fc7-9126-4abd-8d86-bff9463a758f" name="Changes" comment="" />
+    <list default="true" id="6c209fc7-9126-4abd-8d86-bff9463a758f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Hafta_2/Ders_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hafta_2/Ders_3.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +60,7 @@
       <workItem from="1677655595092" duration="3676000" />
       <workItem from="1677691090359" duration="16000" />
       <workItem from="1678864482548" duration="189000" />
+      <workItem from="1678864684970" duration="218000" />
     </task>
     <servers />
   </component>
