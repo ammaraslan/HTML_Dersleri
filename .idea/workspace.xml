@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c209fc7-9126-4abd-8d86-bff9463a758f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Hafta_2/Ders_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hafta_2/Ders_3.html" afterDir="false" />
+    <list default="true" id="6c209fc7-9126-4abd-8d86-bff9463a758f" name="Changes" comment="düzektne hr">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hafta_3/Ders_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hafta_3/Ders_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hafta_3/Ders_9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hafta_3/Ders_9.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +62,23 @@
       <workItem from="1677655595092" duration="3676000" />
       <workItem from="1677691090359" duration="16000" />
       <workItem from="1678864482548" duration="189000" />
-      <workItem from="1678864684970" duration="218000" />
+      <workItem from="1678864684970" duration="768000" />
     </task>
+    <task id="LOCAL-00001" summary="düzektne hr">
+      <created>1678864961917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678864961917</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="düzektne hr" />
+    <option name="LAST_COMMIT_MESSAGE" value="düzektne hr" />
   </component>
 </project>
