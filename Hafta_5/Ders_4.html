@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form 1</title>
+</head>
+<body>
+
+<form method="get" action="Ders_3.html">
+    <input type="hidden" value="ammar aslan">
+    <small>Adınız:</small>
+    <input type="text" placeholder="Adınızı Giriniz"
+           name="ad_soyad">
+    <br>
+    <br>
+    <small>Şifreniz:</small>
+    <input type="password" name="sifre">
+    <br>
+    <br>
+    <small>Cv:</small>
+    <input type="file" name="dosya">
+    <br>
+    <br>
+
+    <small>Bu formu onaylarsanız gizlilik
+        sözleşmesini kabul etmiş olurusnuz:</small>
+    <input type="checkbox" name="sozlesme">
+    <br>
+    <br>
+    <small>Cinsiyet</small>
+    <input checked type="radio" name="cinsyet" value="erkek"> Erkek
+    <input type="radio" name="cinsyet" value="kadin"> Kadın
+
+    <br>
+    <br>
+    <textarea rows="10" cols="100" name="aciklama"></textarea>
+
+    <br>
+    <br>
+<small>Şehir:</small>
+    <select multiple name="sehir[]">
+        <option value="Batman">
+            Batman
+        </option>
+        <option selected value="İstanbul">
+            İstanbul
+        </option>
+    </select>
+
+    <br>
+    <br>
+    <input type="submit" value="Gönder">
+    <input type="button" value="Gönder 2">
+    <input type="reset" value="Temizle">
+</form>
+
+</body>
+</html>

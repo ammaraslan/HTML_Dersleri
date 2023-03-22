@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c209fc7-9126-4abd-8d86-bff9463a758f" name="Changes" comment="düzektne hr">
-      <change afterPath="$PROJECT_DIR$/Hafta_4/Ders_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta_4/Ders_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta_4/Ders_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta_4/Ders_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta_4/Ders_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta_4/Ders_6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta_4/Ders_7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hafta_5/Ders_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hafta_5/Ders_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hafta_5/Ders_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hafta_5/Ders_4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +65,8 @@
       <workItem from="1677691090359" duration="16000" />
       <workItem from="1678864482548" duration="189000" />
       <workItem from="1678864684970" duration="5625000" />
+      <workItem from="1679092265105" duration="4000" />
+      <workItem from="1679467012969" duration="4140000" />
     </task>
     <task id="LOCAL-00001" summary="düzektne hr">
       <created>1678864961917</created>
